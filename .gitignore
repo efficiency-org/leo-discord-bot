@@ -1,0 +1,10 @@
+.env
+.vscode
+/.vscode
+settings.json
+config.json
+/node_modules
+.eslintrc.json
+.dat
+.dll
+.exe

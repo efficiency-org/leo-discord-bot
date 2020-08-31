@@ -1,0 +1,25 @@
+{
+  "name": "leo-discord-bot",
+  "version": "1.0.0",
+  "description": "Our most feature-rich and exciting Discord bot is coming in fast - this bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efficiency-org/leo-discord-bot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "bot",
+    "leo"
+  ],
+  "author": "Dean Summer <deanlovesmargie@gmail.com> (https://JavascriptLearner815.github.io/SpeedoThreeSixty)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/efficiency-org/leo-discord-bot/issues"
+  },
+  "homepage": "https://github.com/efficiency-org/leo-discord-bot#readme"
+}
