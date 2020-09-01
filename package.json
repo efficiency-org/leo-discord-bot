@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/efficiency-org/leo-discord-bot/issues"
   },
-  "homepage": "https://github.com/efficiency-org/leo-discord-bot#readme"
+  "homepage": "https://github.com/efficiency-org/leo-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
 }
