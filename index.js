@@ -37,7 +37,7 @@ client.on('message', message => {
         return message.reply('this command is not available in DMs.');
     }
     
-    if (command.args) {
+    if (command.args && !args.length) {
         let reply = 'you didn\'t provide any arguments.';
         
         if (command.usage) {
